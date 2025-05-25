@@ -53,7 +53,7 @@ video {
 .overlay {
     z-index: -2;
     height: 100vh;
-    display: flex;
+/*     display: flex; */
     justify-content: center;
     align-items: center;
     background: linear-gradient(45deg, #ff6b6b67, #6b6bff64, #6bff6b72);
